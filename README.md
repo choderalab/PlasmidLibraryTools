@@ -1,4 +1,5 @@
 # PlasmidLibraryTools
 PlasmidLibraryTools
 
-`plasmid_sequences` - contains sequences for plasmids in `FASTA` formatted `.seq` files 
+`plasmid_sequences` - contains sequences for full plasmids 
+`sequencing data by clone` - contains sequencing results by clone ID
