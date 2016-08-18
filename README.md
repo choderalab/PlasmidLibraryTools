@@ -7,6 +7,6 @@ Here we have the Chodera Lab Plasmid Library. It includes a csv, which is a down
 
 This is the plasmid library:
 
-<img src="img/PlasmidLibrary1.png" width="50 /">
-<img src="img/PlasmidLibrary1-tubes.png" width="50" />
+<img src="img/PlasmidLibrary1.png" width="200" />
+<img src="img/PlasmidLibrary1-tubes.png" width="200" />
 
