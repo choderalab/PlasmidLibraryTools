@@ -1,0 +1,277 @@
+Mon Aug 22, 2016 11:40 EDT
+pet_his6_cterm_trx_tev_lic.seq from 1 to 5121
+Alignment to
+Cterm-Trx-T7-Term.seq from 1 to 473
+
+Matches(|):309 
+Mismatches(#):15 
+Gaps( ):7 
+Unattempted(.):4793 
+
+                *         *         *         *         *         *         *         *         *         *
+     1 TTCTTGAAGACGAAAGGGCCTCGTGATACGCCTATTTTTATAGGTTAATGTCATGATAATAATGGTTTCTTAGACGTCAGGTGGCACTTTTCGGGGAAAT 100   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1     
+
+                *         *         *         *         *         *         *         *         *         *
+   101 GTGCGCGGAACCCCTATTTGTTTATTTTTCTAAATACATTCAAATATGTATCCGCTCATGAGACAATAACCCTGATAAATGCTTCAATAACATTGAAAAA 200   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1     
+
+                *         *         *         *         *         *         *         *         *         *
+   201 GGAAGAGTATGAGTATTCAACATTTCCGTGTCGCCCTTATTCCCTTTTTTGCGGCATTTTGCCTTCCTGTTTTTGCTCACCCAGAAACGCTGGTGAAAGT 300   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1     
+
+                *         *         *         *         *         *         *         *         *         *
+   301 AAAAGATGCTGAAGATCAGTTGGGTGCACGAGTGGGTTACATCGAACTGGATCTCAACAGCGGTAAGATCCTTGAGAGTTTTCGCCCCGAAGAACGTTTT 400   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1     
+
+                *         *         *         *         *         *         *         *         *         *
+   401 CCAATGATGAGCACTTTTAAAGTTCTGCTATGTGGCGCGGTATTATCCCGTGTTGACGCCGGGCAAGAGCAACTCGGTCGCCGCATACACTATTCTCAGA 500   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1     
+
+                *         *         *         *         *         *         *         *         *         *
+   501 ATGACTTGGTTGAGTACTCACCAGTCACAGAAAAGCATCTTACGGATGGCATGACAGTAAGAGAATTATGCAGTGCTGCCATAACCATGAGTGATAACAC 600   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1     
+
+                *         *         *         *         *         *         *         *         *         *
+   601 TGCGGCCAACTTACTTCTGACAACGATCGGAGGACCGAAGGAGCTAACCGCTTTTTTGCACAACATGGGGGATCATGTAACTCGCCTTGATCGTTGGGAA 700   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1     
+
+                *         *         *         *         *         *         *         *         *         *
+   701 CCGGAGCTGAATGAAGCCATACCAAACGACGAGCGTGACACCACGATGCCTGCAGCAATGGCAACAACGTTGCGCAAACTATTAACTGGCGAACTACTTA 800   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1     
+
+                *         *         *         *         *         *         *         *         *         *
+   801 CTCTAGCTTCCCGGCAACAATTAATAGACTGGATGGAGGCGGATAAAGTTGCAGGACCACTTCTGCGCTCGGCCCTTCCGGCTGGCTGGTTTATTGCTGA 900   
+       ....................................................................................................       
+     1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~NNNNNNNNNNNNTNNNNNTTCNNGNTGGNTGGNTTATNGTNGAT 44    
+                                                                        *         *         *         *    
+
+                *         *         *         *         *         *         *         *         *         *
+   901 TAAATCTGGAGCCGGTGAGCGTGGGTCTCGCGGTATCATTGCAGCACTGGGGCCAGATGGTAAGCCCTCCCGTATCGTAGTTATCTACACGACGGGGAGT 1000  
+       ................................................................||||||||||||||||||||||||||||||||||||       
+    45 GNNTCTGNATGNNGTGAGCCGGGCACCTCGCGGTATCGCCGCGATCCTGGATCCTTATGGAGTTCCCTCCCGTATCGTAGTTATCTACACGACGGGGAGT 144   
+            *         *         *         *         *         *         *         *         *         *    
+
+                *         *         *         *         *         *         *         *         *         *
+  1001 CAGGCAACTATGGATGAACGAAATAGACAGATCGCTGAGATAGGTGCCTCACTGATTAAGCATTGGTAACTGTCAGACCAAGTTTACTCATATATACTTT 1100  
+       ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||       
+   145 CAGGCAACTATGGATGAACGAAATAGACAGATCGCTGAGATAGGTGCCTCACTGATTAAGCATTGGTAACTGTCAGACCAAGTTTACTCATATATACTTT 244   
+            *         *         *         *         *         *         *         *         *         *    
+
+                *         *         *         *         *         *         *         *         *         *
+  1101 AGATTGATTTAAAACTTCATTTTTAATTTAAAAGGATCTAGGTGAAGATCCTTTTTGATAATCTCATGACCAAAATCCCTTAACGTGAGTTTTCGTTCCA 1200  
+       |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||#|||||||||||||||||||||||||||||||||#       
+   245 AGATTGATTTAAAACTTCATTTTTAATTTAAAAGGATCTAGGTGAAGATCCTTTTTGATAATCTCTTGACCAAAATCCCTTAACGTGAGTTTTCGTTCCT 344   
+            *         *         *         *         *         *         *         *         *         *    
+
+                 *         *         *         *         *           *         *         *         *       
+  1201 CTGAGCGT-CAGACCCCGTAGAAAAGATCAAAGGATCTTCTTGAGATCCTTTTTTTCTG--CGCGTAATCTGCTGCTTGCAAACAAAAAAACCACCGCTA 1297  
+       ||||#||| || ||||||||#|####||||||||||||||||||||||||||||||#||  |   #||||#|###||#|||||||||||||||||.....       
+   345 CTGANCGTCCA-ACCCCGTANANNNNATCAAAGGATCTTCTTGAGATCCTTTTTTTNTGNNC---NAATCNGAAACTAGCAAACAAAAAAACCAC----- 435   
+            *          *         *         *         *         *            *         *         *          
+
+         *         *         *         *         *         *         *         *         *         *       
+  1298 CCAGCGGTGGTTTGTTTGCCGGATCAAGAGCTACCAACTCTTTTTCCGAAGGTAACTGGCTTCAGCAGAGCGCAGATACCAAATACTGTCCTTCTAGTGT 1397  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  1398 AGCCGTAGTTAGGCCACCACTTCAAGAACTCTGTAGCACCGCCTACATACCTCGCTCTGCTAATCCTGTTACCAGTGGCTGCTGCCAGTGGCGATAAGTC 1497  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  1498 GTGTCTTACCGGGTTGGACTCAAGACGATAGTTACCGGATAAGGCGCAGCGGTCGGGCTGAACGGGGGGTTCGTGCACACAGCCCAGCTTGGAGCGAACG 1597  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  1598 ACCTACACCGAACTGAGATACCTACAGCGTGAGCTATGAGAAAGCGCCACGCTTCCCGAAGGGAGAAAGGCGGACAGGTATCCGGTAAGCGGCAGGGTCG 1697  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  1698 GAACAGGAGAGCGCACGAGGGAGCTTCCAGGGGGAAACGCCTGGTATCTTTATAGTCCTGTCGGGTTTCGCCACCTCTGACTTGAGCGTCGATTTTTGTG 1797  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  1798 ATGCTCGTCAGGGGGGCGGAGCCTATGGAAAAACGCCAGCAACGCGGCCTTTTTACGGTTCCTGGCCTTTTGCTGGCCTTTTGCTCACATGTTCTTTCCT 1897  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  1898 GCGTTATCCCCTGATTCTGTGGATAACCGTATTACCGCCTTTGAGTGAGCTGATACCGCTCGCCGCAGCCGAACGACCGAGCGCAGCGAGTCAGTGAGCG 1997  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  1998 AGGAAGCGGAAGAGCGCCTGATGCGGTATTTTCTCCTTACGCATCTGTGCGGTATTTCACACCGCATATATGGTGCACTCTCAGTACAATCTGCTCTGAT 2097  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2098 GCCGCATAGTTAAGCCAGTATACACTCCGCTATCGCTACGTGACTGGGTCATGGCTGCGCCCCGACACCCGCCAACACCCGCTGACGCGCCCTGACGGGC 2197  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2198 TTGTCTGCTCCCGGCATCCGCTTACAGACAAGCTGTGACCGTCTCCGGGAGCTGCATGTGTCAGAGGTTTTCACCGTCATCACCGAAACGCGCGAGGCAG 2297  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2298 CTGCGGTAAAGCTCATCAGCGTGGTCGTGAAGCGATTCACAGATGTCTGCCTGTTCATCCGCGTCCAGCTCGTTGAGTTTCTCCAGAAGCGTTAATGTCT 2397  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2398 GGCTTCTGATAAAGCGGGCCATGTTAAGGGCGGTTTTTTCCTGTTTGGTCACTGATGCCTCCGTGTAAGGGGGATTTCTGTTCATGGGGGTAATGATACC 2497  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2498 GATGAAACGAGAGAGGATGCTCACGATACGGGTTACTGATGATGAACATGCCCGGTTACTGGAACGTTGTGAGGGTAAACAACTGGCGGTATGGATGCGG 2597  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2598 CGGGACCAGAGAAAAATCACTCAGGGTCAATGCCAGCGCTTCGTTAATACAGATGTAGGTGTTCCACAGGGTAGCCAGCAGCATCCTGCGATGCAGATCC 2697  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2698 GGAACATAATGGTGCAGGGCGCTGACTTCCGCGTTTCCAGACTTTACGAAACACGGAAACCGAAGACCATTCATGTTGTTGCTCAGGTCGCAGACGTTTT 2797  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2798 GCAGCAGCAGTCGCTTCACGTTCGCTCGCGTATCGGTGATTCATTCTGCTAACCAGTAAGGCAACCCCGCCAGCCTAGCCGGGTCCTCAACGACAGGAGC 2897  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2898 ACGATCATGCGCACCCGTGGCCAGGACCCAACGCTGCCCGAGATGCGCCGCGTGCGGCTGCTGGAGATGGCGGACGCGATGGATATGTTCTGCCAAGGGT 2997  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  2998 TGGTTTGCGCATTCACAGTTCTCCGCAAGAATTGATTGGCTCCAATTCTTGGAGTGGTGAATCCGTTAGCGAGGTGCCGCCGGCTTCCATTCAGGTCGAG 3097  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3098 GTGGCCCGGCTCCATGCACCGCGACGCAACGCGGGGAGGCAGACAAGGTATAGGGCGGCGCCTACAATCCATGCCAACCCGTTCCATGTGCTCGCCGAGG 3197  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3198 CGGCATAAATCGCCGTGACGATCAGCGGTCCAGTGATCGAAGTTAGGCTGGTAAGAGCCGCGAGCGATCCTTGAAGCTGTCCCTGATGGTCGTCATCTAC 3297  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3298 CTGCCTGGACAGCATGGCCTGCAACGCGGGCATCCCGATGCCGCCGGAAGCGAGAAGAATCATAATGGGGAAGGCCATCCAGCCTCGCGTCGCGAACGCC 3397  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3398 AGCAAGACGTAGCCCAGCGCGTCGGCCGCCATGCCGGCGATAATGGCCTGCTTCTCGCCGAAACGTTTGGTGGCGGGACCAGTGACGAAGGCTTGAGCGA 3497  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3498 GGGCGTGCAAGATTCCGAATACCGCAAGCGACAGGCCGATCATCGTCGCGCTCCAGCGAAAGCGGTCCTCGCCGAAAATGACCCAGAGCGCTGCCGGCAC 3597  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3598 CTGTCCTACGAGTTGCATGATAAAGAAGACAGTCATAAGTGCGGCGACGATAGTCATGCCCCGCGCCCACCGGAAGGAGCTGACTGGGTTGAAGGCTCTC 3697  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3698 AAGGGCATCGGTCGACGCTCTCCCTTATGCGACTCCTGCATTAGGAAGCAGCCCAGTAGTAGGTTGAGGCCGTTGAGCACCGCCGCCGCAAGGAATGGTG 3797  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3798 CATGCAAGGAGATGGCGCCCAACAGTCCCCCGGCCACGGGGCCTGCCACCATACCCACGCCGAAACAAGCGCTCATGAGCCCGAAGTGGCGAGCCCGATC 3897  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3898 TTCCCCATCGGTGATGTCGGCGATATAGGCGCCAGCAACCGCACCTGTGGCGCCGGTGATGCCGGCCACGATGCGTCCGGCGTAGAGGATCGAGATCTCG 3997  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  3998 ATCCCGCGAAATTAATACGACTCACTATAGGGAGACCACAACGGTTTCCCTCTAGTGCCGGCTCCGGAGAGCTCTTTAATTAAGCGGCCGCCCTGCAGGA 4097  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4098 CTCGAGTTCTAGAAATAATTTTGTTTAACTTTAAGAAGGAGATATAGTTAACCTCTACTTCCAATCCGGCTCTAGCGGCTCTATGAGCGATAAAATTATT 4197  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4198 CACCTGACTGACGACAGTTTTGACACGGATGTACTCAAAGCGGACGGGGCGATCCTCGTCGATTTCTGGGCAGAGTGGTGCGGTCCGTGCAAAATGATCG 4297  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4298 CCCCGATTCTGGATGAAATCGCTGACGAATATCAGGGCAAACTGACCGTTGCAAAACTGAACATCGATCAAAACCCTGGCACTGCGCCGAAATATGGCAT 4397  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4398 CCGTGGTATCCCGACTCTGCTGCTGTTCAAAAACGGTGAAGTGGCGGCAACCAAAGTGGGTGCACTGTCTAAAGGTCAGTTGAAAGAGTTCCTCGACGCT 4497  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4498 AACCTGGCCGGCAGTAGCCACCATCACCATCACCATTAATAACCAACTCCATAAGGATCCGCGATCGCGGCGCGCCACCTGGTGGCCGGCCGGTACCACG 4597  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4598 CGTGCGCGCTGATCCGGCTGCTAACAAAGCCCGAAAGGAAGCTGAGTTGGCTGCTGCCACCGCTGAGCAATAACTAGCATAACCCCTTGGGGCCTCTAAA 4697  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4698 CGGGTCTTGAGGGGTTTTTTGCTGAAAGGAGGAACTATATCCGGACATCCACAGGACGGGTGTGGTCGCCATGATCGCGTAGTCGATAGTGGCTCCAAGT 4797  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4798 AGCGAAGCGAGCAGGACTGGGCGGCGGCCAAAGCGGTCGGACAGTGCTCCGAGAACGGGTGCGCATAGAAATTGCATCAACGCATATAGCGCTAGCAGCA 4897  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4898 CGCCATAGTGACTGGCGATGCTGTCGGAATGGACGACATCCCGCAAGAGGCCCGGCAGTACCGGCATAACCAAGCCTATGCCTACAGCATCCAGGGTGAC 4997  
+       ....................................................................................................       
+   436 ---------------------------------------------------------------------------------------------------- 436   
+
+         *         *         *         *         *         *         *         *         *         *       
+  4998 GGTGCCGAGGATGACGATGAGCGCATTGTTAGATTTCATACACGGTGCCTGACTGCGTTAGCAATTTAACTGTGATAAACTACCGCATTAAAGCTTATCG 5097  
+       ....................................................................................................       
+   436 --------------------------------------------------------------------------------------NGCTAAANNNNTCG 449   
+                                                                                                 *         
+
+         *         *         *
+  5098 ATGATAAGCTGTCAAACATGAGAA 5121  
+       ........................       
+   450 CNTGNNTGCNNGATCTGACCTNCC 473   
+       *         *         *
+
